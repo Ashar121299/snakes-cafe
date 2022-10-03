@@ -6,11 +6,10 @@
 
 ### Link and Resources 
 
-1.[link](https://stackoverflow.com/questions/10851906/
-python-3-unboundlocalerror-local-variable-referenced-before-assignment)
+1.[Stack overflow](https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment)
 
 
-2.[link](https://www.toptal.com/developers/gitignore)
+2.[gitignore](https://www.toptal.com/developers/gitignore)
 
 
 ### Set up 
